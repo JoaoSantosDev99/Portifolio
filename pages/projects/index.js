@@ -24,7 +24,7 @@ const Projects = () => {
         <ul className="max-w-5xl flex justify-center p-4 flex-wrap gap-3 bg-[#1e1e1ec9] rounded-2xl">
           <GaleryItem
             landingpage
-            path={"KristimLandingpage"}
+            path={"template"}
             title={"Kristim"}
             img={kristim}
           />
